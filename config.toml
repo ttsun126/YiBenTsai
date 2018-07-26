@@ -1,0 +1,57 @@
+baseurl = "/"
+title = "追思蔡義本教授"
+theme = "hugo-creative-portfolio-theme"
+languageCode = "zh-TW"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+googleAnalytics = ""
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "追思蔡義本教授"
+  copyright = "&copy;2018 Prof. Yi-Ben Tsai"
+  sidebarAbout = [
+    "  中央研究院地球科學所創所所長及國立中央大學地球科學院創院院長蔡義本教授，於美國時間 1 月31日在加州Los Altos家中安詳離世，地球科學界深感悲痛與悼念。"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "you@yoursite.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "首頁"
+  url = "memory/"
+  home = true
+
+  [[params.navlinks]]
+  name = "關於"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "書"
+  url = "book"
+
+  [[params.navlinks]]
+  name = "聯繫"
+  url = "contact/"
+
+  [params.social]
+  facebook      = "full page or profile url in facebook"
+  email         = "email@example.com"
+  github        = "full profile url in github"
+  youtube       = "full profile url in youtube" 
