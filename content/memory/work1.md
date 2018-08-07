@@ -1,4 +1,4 @@
----
++++
 showonlyimage = true
 draft = false
 image = "img/portfolio/a4-paper.jpg"
@@ -6,7 +6,7 @@ date = "2018-08-06"
 title = "關於蔡義本老師的一些回憶"
 author = "吳文男"
 weight = 0
----
++++
 
 吳文男 撰
 地物所碩士班88級、博士班93級 現為中大地科系 博士後
