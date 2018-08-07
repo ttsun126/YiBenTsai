@@ -1,31 +1,46 @@
-+++
+---
 showonlyimage = true
 draft = false
 image = "img/portfolio/a4-paper.jpg"
-date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+date = "2018-08-06"
+title = "關於蔡義本老師的一些回憶"
+author = "吳文男"
 weight = 0
-+++
+---
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+吳文男 撰
+地物所碩士班88級、博士班93級 現為中大地科系 博士後
+
+一九九九年六月，我因為考上了中大地物所，在暑假開始前，就到中大辦理一些事務。學長帶我參觀地科系館，剛好在地科院院辦前，
+遇到蔡義本老師。學長向蔡老師問好，並向他介紹我是剛考上地物所的新生。蔡老師笑笑地對我說：歡迎你來中大。等蔡老師進了院辦，
+學長才跟我說：那位老師就是蔡義本老師，在台灣學地球科學的人應該沒有人不知道他吧？我驚訝地說：蔡老師這麼有名，
+對每個人也都這麼客氣？學長對我點點頭。這是我第一次見到蔡老師，第一次見到在文獻裡提到的大人物。
+那時年近六十歲的蔡老師是位看起來活力十足、親切的老師。
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+暑假過後，開學不久，台灣就遭逢了百年大震-921地震。震後好幾個月內，常看到蔡老師匆忙的身影。好幾次在早上要去上蔡老師的課，
+看見蔡老師在院門口下計程車，然後匆匆進來教室，原來蔡老師已經去其他地方開完會又趕回學校上課。印象裡，除非是時間真的無法配合了，
+蔡老師才會請人代課。除了經常一早見到蔡老師搭著計程車回來或離開學校，也有好幾次晚上十一、二點時，在地科系辦後的車棚裡，
+遇到蔡老師戴著安全帽、牽著腳踏車正要離開。每次見到蔡老師，他總是一貫的開朗笑容。
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+碩一時有天晚上十一、二點了，我進去蔡老師的實驗室找蔡老師的學生-曉玲同學討論作業，
+怎知一進實驗室就看見蔡老師在中間的大桌子前專注地閱讀文獻。當時我心想，連蔡老師這樣享譽國際的老師都這麼地用功，
+我們當學生的實在不能鬼混啊。
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+2004年我參加博士班入學口試，蔡老師對我的研究計畫提出問題。我規劃的研究計畫是：把台灣底下的速度不連續面找出來，
+然後加入成為逆推速度構造的約束，希望得到一個更好的三維速度構造。記得蔡老師問我：有沒有考慮研究速度不連續面對強地動的影響？
+當時我沒有完全瞭解蔡老師問題的意思，面試過後，馬老師向我詳細解釋了蔡老師的問題，
+並且告訴我蔡老師的用意是要我做這些地震學研究的時候，也要思考怎麼把結果應用到解決實際（防災）的問題。
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+2008年12月的美國地球物理學會秋季大會，我在會議大樓二樓處稍作停留，正與幾位學長寒暄，蔡老師從樓梯上來，
+見了我們又是一貫的開朗笑容。大家一一向蔡老師問好並說明近況，我特別向蔡老師說明我正在加拿大的太平洋地球科學中心訪問，
+接受高弘老師的指導。蔡老師一聽馬上說：高老師的non-volcanic tremor研究做得很好，你有沒有跟著做？
+我心想，蔡老師都退休這麼多年了，想不到他還是一直很關注地震學界的最新研究。
+我向蔡老師說明我正在研究Queen Charlotte fault的non-volcanic tremor的訊號特性與空間分布。
+蔡老師又說：那你覺得台灣有沒有non-volcanic tremor呢? 我說：應該有的，花點時間，我有自信可以找到。
+蔡老師笑笑地說：很好，台灣現在做這個研究有點慢了，不過台灣有台灣的獨特性還是很值得研究，希望早日看到你的成果。
 
-## Header Level 2
+倏忽之間，十年過去。在AGU那次的對話，竟是我最後一次與蔡老師比較深入聊天的情況。今年二月初聽到蔡老師過世的消息，
+想起過去與蔡老師相處的吉光片羽與大家分享。
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
