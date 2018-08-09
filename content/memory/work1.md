@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/a4-paper.jpg"
+image = "img/wennanwu.jpg"
 date = "2018-08-06"
 title = "關於蔡義本老師的一些回憶"
 author = "吳文男"

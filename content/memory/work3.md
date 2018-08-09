@@ -1,17 +1,16 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/ttsun.jpg"
+image = "img/iamfd.jpg"
 date = "2018-08-06"
 title = "關於蔡義本老師的一些回憶"
-author = "孫維芳"
+author = "Iamfd"
 weight = 0
 +++
 
-孫維芳 撰
+Iamfd 撰
 
 
 <!--more-->
-
 
 
